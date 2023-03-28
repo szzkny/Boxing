@@ -1,0 +1,16 @@
+C:\Users\szabina.zekany\Desktop\C# Github\Boxing\Boxing\bin\Debug\net5.0\Boxing.exe
+C:\Users\szabina.zekany\Desktop\C# Github\Boxing\Boxing\bin\Debug\net5.0\Boxing.deps.json
+C:\Users\szabina.zekany\Desktop\C# Github\Boxing\Boxing\bin\Debug\net5.0\Boxing.runtimeconfig.json
+C:\Users\szabina.zekany\Desktop\C# Github\Boxing\Boxing\bin\Debug\net5.0\Boxing.runtimeconfig.dev.json
+C:\Users\szabina.zekany\Desktop\C# Github\Boxing\Boxing\bin\Debug\net5.0\Boxing.dll
+C:\Users\szabina.zekany\Desktop\C# Github\Boxing\Boxing\bin\Debug\net5.0\Boxing.pdb
+C:\Users\szabina.zekany\Desktop\C# Github\Boxing\Boxing\obj\Debug\net5.0\Boxing.csproj.AssemblyReference.cache
+C:\Users\szabina.zekany\Desktop\C# Github\Boxing\Boxing\obj\Debug\net5.0\Boxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szabina.zekany\Desktop\C# Github\Boxing\Boxing\obj\Debug\net5.0\Boxing.AssemblyInfoInputs.cache
+C:\Users\szabina.zekany\Desktop\C# Github\Boxing\Boxing\obj\Debug\net5.0\Boxing.AssemblyInfo.cs
+C:\Users\szabina.zekany\Desktop\C# Github\Boxing\Boxing\obj\Debug\net5.0\Boxing.csproj.CoreCompileInputs.cache
+C:\Users\szabina.zekany\Desktop\C# Github\Boxing\Boxing\obj\Debug\net5.0\Boxing.dll
+C:\Users\szabina.zekany\Desktop\C# Github\Boxing\Boxing\obj\Debug\net5.0\refint\Boxing.dll
+C:\Users\szabina.zekany\Desktop\C# Github\Boxing\Boxing\obj\Debug\net5.0\Boxing.pdb
+C:\Users\szabina.zekany\Desktop\C# Github\Boxing\Boxing\obj\Debug\net5.0\Boxing.genruntimeconfig.cache
+C:\Users\szabina.zekany\Desktop\C# Github\Boxing\Boxing\obj\Debug\net5.0\ref\Boxing.dll
